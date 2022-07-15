@@ -1,6 +1,8 @@
 ## Hi there, I'm Philipp! 👋
 ### About Me
-Born and raised in Vienna, with an affinity for tech from a very early age on. With a background in economics, I most recently worked as a policy officer on matters regarding social housing and the platform economy, with the latter leading me to switch into tech completely.
+Born and raised in Vienna, with an affinity for tech from a very early age on. 
+
+With a background in economics, I most recently worked as a policy officer on matters regarding social housing and the platform economy, with the latter leading me to switch into tech completely.
 ### I am currently... 
 - 👨‍🎓 a student at the the Upleveled.io Web Development Bootcamp
 - 🔭 working on a full stack web application as my final project
