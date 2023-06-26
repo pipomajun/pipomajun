@@ -6,7 +6,7 @@ With a background in economics, I most recently worked as a policy officer on ma
 
 ### I am currently... 
 - 💻️ a Junior Frontend Developer Team at STANDARD Verlagsgesellschaft GmbH
-- 🤔 designing and developing new features for our community of readers
+- 🤔 designing and developing new features for our community
 - 🌱 eager to grow as a developer
 
 ### Tech Stack
